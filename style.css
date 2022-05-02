@@ -1,0 +1,25 @@
+.produtosdemoda {
+    background-color: #BB86FC;
+}
+
+.produtosdacasa {
+    background-color: #00C4B4;
+}
+
+td {
+background-color: #424250
+
+}
+
+body {
+    color:white;
+}
+
+td,
+th {
+    padding: 8px 10px;
+}
+
+h1 {
+    color: black;
+}
